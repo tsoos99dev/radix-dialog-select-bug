@@ -1,6 +1,6 @@
 # radix-dialog-select-bug
 
-Small example representing the issue of infinite focus in / focus out
+Small example representing the weird focus issue
 
 ## Running the example
 
